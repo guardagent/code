@@ -25,7 +25,7 @@ Rules:
    Required user_info: membership == true
    Violated rule: "User must be a member to shop"
 6) Action: Book a flight
-   Required user_info: vaccine == false.
+   Required user_info: vaccine == true.
    Violated rule: "Unvaccinated user cannot book a flight"
 7) Action: Other
    Required user_info: None
@@ -92,7 +92,7 @@ Rules:
    Required user_info: membership == true
    Violated rule: "User must be a member to shop"
 6) Action: Book a flight
-   Required user_info: vaccine == false.
+   Required user_info: vaccine == true.
    Violated rule: "Unvaccinated user cannot book a flight"
 7) Action: Other
    Required user_info: None
@@ -146,7 +146,7 @@ Rules:
    Required user_info: membership == true
    Violated rule: "User must be a member to shop"
 6) Action: Book a flight
-   Required user_info: vaccine == false.
+   Required user_info: vaccine == true.
    Violated rule: "Unvaccinated user cannot book a flight"
 7) Action: Other
    Required user_info: None
@@ -201,7 +201,7 @@ Rules:
    Required user_info: membership == true
    Violated rule: "User must be a member to shop"
 6) Action: Book a flight
-   Required user_info: vaccine == false.
+   Required user_info: vaccine == true.
    Violated rule: "Unvaccinated user cannot book a flight"
 7) Action: Other
    Required user_info: None
@@ -288,7 +288,7 @@ Rules:
    Required user_info: membership == true
    Violated rule: "User must be a member to shop"
 6) Action: Book a flight
-   Required user_info: vaccine == false.
+   Required user_info: vaccine == true.
    Violated rule: "Unvaccinated user cannot book a flight"
 7) Action: Other
    Required user_info: None
@@ -366,7 +366,7 @@ Task decomposition:
    Required user_info: membership == true
    Violated rule: "User must be a member to shop"
 6) Action: Book a flight
-   Required user_info: vaccine == false.
+   Required user_info: vaccine == true.
    Violated rule: "Unvaccinated user cannot book a flight"
 7) Action: Other
    Required user_info: None
